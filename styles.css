@@ -175,15 +175,19 @@ nav a:hover{
 }
 
 /* Responsive */
-@media screen and (max-width: 768px) {
-  .header .logo img {
-  max-width: 190px !important;
+@media (max-width: 768px) {
+  .logo{
+  max-width: 200px;
 }
   .hero{
-    height:86vh !important;
+    height:80vh;
   }
   .split-section {
     flex-direction: column;
+  }
+  .hero-content{
+   padding-left:5%;
+  padding-right:5%;
   }
 
   .footer-inner {
