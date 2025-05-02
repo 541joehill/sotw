@@ -182,7 +182,7 @@ nav a:hover{
 }
   .hero{
     height:80vh;
-    background: url('./Wil2.jpg') 30% / cover no-repeat;
+    background: url('./Wil2.jpg') 30% / cover no-repeat !important;
   }
   .split-section {
     flex-direction: column;
