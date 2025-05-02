@@ -175,7 +175,7 @@ nav a:hover{
 }
 
 /* Responsive */
-@media screen and(max-width: 768px) {
+@media screen and (max-width: 768px) {
   .header .logo {
   max-width: 190px;
 }
