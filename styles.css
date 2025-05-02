@@ -78,7 +78,7 @@ nav a:hover {
 .hero {
   position: relative;
   height: 60vh;
-  background: url('Wil2.jpg') center/cover no-repeat;
+  background: url('./Wil2.jpg') center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
