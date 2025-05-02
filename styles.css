@@ -176,11 +176,13 @@ nav a:hover{
 
 /* Responsive */
 @media (max-width: 768px) {
+  
   .logo{
   max-width: 200px;
 }
   .hero{
     height:80vh;
+    background: url('./Wil2.jpg') 30% / cover no-repeat;
   }
   .split-section {
     flex-direction: column;
