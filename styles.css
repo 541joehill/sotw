@@ -176,6 +176,12 @@ nav a:hover{
 
 /* Responsive */
 @media (max-width: 768px) {
+  .logo {
+  max-width: 160px;
+}
+  .hero{
+    height:86vh;
+  }
   .split-section {
     flex-direction: column;
   }
