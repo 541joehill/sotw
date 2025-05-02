@@ -175,9 +175,9 @@ nav a:hover{
 }
 
 /* Responsive */
-@media (max-width: 768px) {
-  .logo {
-  max-width: 160px;
+@media screen and(max-width: 768px) {
+  .header .logo {
+  max-width: 190px;
 }
   .hero{
     height:86vh;
